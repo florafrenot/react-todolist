@@ -1,0 +1,21 @@
+.completed-task {
+    text-decoration: line-through;
+    color: black;
+    background-color: #8d91af;
+    color: white;
+}
+
+.container {
+    /* background-color: rgb(235, 226, 226); */
+    margin: 100px;
+    border: 2px solid #8d91af;
+    border-radius: 5px;
+}
+
+.title {
+    color: #1e234b;
+}
+
+/* .form {
+    border-bottom: 1px solid rgb(126, 118, 86);
+} */
