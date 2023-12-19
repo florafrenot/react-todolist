@@ -1,9 +1,6 @@
 import React from "react";
 import TodoList from "./components/TodoList";
 
-// import FilterButton from "./components/FilterButton";
-
-
 function App() {
 
 
