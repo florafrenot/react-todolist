@@ -2,12 +2,6 @@ import React, { useEffect, useState } from 'react'
 import TodoForm from './TodoForm';
 import Todo from './Todo';
 
-// let data = [
-//     { id: "todo-0", name: "Manger", completed: true },
-//     { id: "todo-1", name: "Dormir", completed: true },
-//     { id: "todo-2", name: "Péter", completed: false },
-// ];
-
 function TodoList() {
 
     // afin de récupérer un Json et de le sauvegarder
