@@ -1,7 +1,7 @@
 Add your tasks in your todolist :) 
 
-## Add dependancies :
-npm install
+## Add dependancies 'npm install'
+
 
 ### `npm start`
 Runs the app in the development mode.\
